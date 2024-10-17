@@ -1,0 +1,7 @@
+
+
+# Nougat: Neural Optical Understanding for Academic Documents
+
+ Lukas Blecher
+
+Correspondence to: lblecher@
